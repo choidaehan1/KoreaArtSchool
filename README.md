@@ -32,6 +32,9 @@
 # 플로우차트
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/be833e55-f587-4851-b429-de9ced606f4e)
 
+# 기능구현영상
+https://youtu.be/z2ELtPMWzK8?si=A84RBBA3V7E_4Ft2
+
 # 기능구현화면
 
 <details>

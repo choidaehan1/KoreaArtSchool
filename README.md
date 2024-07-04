@@ -1,4 +1,5 @@
 # 📖 한국예술학교 입학지원 시스템 
+![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/f8f76afe-1903-44e5-ae45-b69c9ad86bfd)
 
 대학 정보화시스템 구축을 전문으로 하는 ㈜위지언과 함께 기업 프로젝트를 진행하게 되었고 저희는 입학관리시스템을 주제로 선택했습니다.
 어떤 입학관리시스템을 구축할까? 모색하던 중 한국예술종합학교에서 
@@ -72,6 +73,8 @@
 
 
 ## 주요 기능
+![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/180deb3d-f4e9-40d1-acb2-a5a0ebba1bf1)
+
 
 ## 실행 화면
 

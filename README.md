@@ -35,7 +35,7 @@
 # 기능구현화면
 
 <details>
-<summary>클릭</summary>
+<summary>Click</summary>
 
 ## 지원자 페이지
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/84613463-608c-4282-8d92-3b69f4f6de16)

@@ -12,8 +12,7 @@
 ## 프로젝트 일정
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/fb2a3f8b-b8e1-4698-bd5c-64905e4e257a)
 
- # <WBS>
-
+ ## <WBS>
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/5b6714a8-64e1-4945-aa46-3235d2857733)
 
 ## ERD 다이어그램

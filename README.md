@@ -32,11 +32,11 @@
 # 플로우차트
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/be833e55-f587-4851-b429-de9ced606f4e)
 
-# 기능구현영상
+# 구현영상
 https://youtu.be/z2ELtPMWzK8?si=A84RBBA3V7E_4Ft2
 
 
-# 기능구현화면
+## 실행화면
 
 <details>
 <summary>Click</summary>
@@ -157,7 +157,7 @@ https://youtu.be/z2ELtPMWzK8?si=A84RBBA3V7E_4Ft2
 
 
 
-## 실행 화면
+
 
 ## 소감
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/e6b54c25-fa77-4dad-812b-575eb33af7c1)

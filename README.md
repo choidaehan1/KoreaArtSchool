@@ -12,7 +12,8 @@
 * 2024년 04월 25일 ~ 2024년 05월 29일
 
 ## 프로젝트 일정
-![image](https://github.com/syO-Oii/KoreaArtSchool/assets/149779282/aa81eb5b-2bfd-4de1-bdd0-b496aeeaff46)
+![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/fb2a3f8b-b8e1-4698-bd5c-64905e4e257a)
+
 
 ![image](https://github.com/syO-Oii/KoreaArtSchool/assets/149779282/62daa3f5-be0f-4e6b-baf0-f875dd1dd2a7)
 

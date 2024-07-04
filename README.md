@@ -75,7 +75,7 @@
 ## 접기 시작
 
 <details>
-<summary>접기/펼치기</summary>
+<summary>기능구현</summary>
 
 접은 내용(ex 소스 코드)
 </details>

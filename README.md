@@ -28,8 +28,9 @@
 ## ✒️개발 언어
 #### [Back-End]
  * Java 17
- * Spring Boot : ~ 구현
+ * Spring Boot 
  * MyBatis
+ * JPA
  * MySQL(Oracle) : ~ 데이터 저장
 
 #### [Front-End]

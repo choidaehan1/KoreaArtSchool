@@ -65,8 +65,6 @@
 ### 2. B 기능
 
 
-## 팀원
-![image](https://github.com/syO-Oii/KoreaArtSchool/assets/149779282/6ff97f54-7188-489d-9abf-a571e05e9053)
 
 
 

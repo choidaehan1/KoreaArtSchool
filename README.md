@@ -78,6 +78,11 @@
 <summary>기능구현</summary>
    
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/84613463-608c-4282-8d92-3b69f4f6de16)
+![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/9abef718-468d-483a-9d15-f4fc07068f0d)
+![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/c06d2d73-9692-49f2-9676-8e63d5e01549)
+![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/31b23c68-8ff0-40e3-8887-f728ff07bbb1)
+
+
 
 
 </details>

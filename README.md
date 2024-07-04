@@ -26,7 +26,8 @@
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/7b571f63-a615-47bd-932b-9446072dc74e)
 
 # 와이어프레임
-![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/e2ab3c86-0d7e-429d-9ac6-6e811c59ce27)
+![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/cae2f3bc-ab5b-4a68-84e0-f0991b5b9182)
+
 
 # 플로우차트
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/be833e55-f587-4851-b429-de9ced606f4e)

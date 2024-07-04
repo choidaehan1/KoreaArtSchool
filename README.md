@@ -45,7 +45,7 @@
 #### [TEAM 협업도구]
  * Github
  * Google Drive
- * ...
+   
 
 ## 메뉴트리
 ![image](https://github.com/syO-Oii/KoreaArtSchool/assets/149779282/9100ec9f-83cf-4433-b415-fc392577c11a)

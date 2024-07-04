@@ -17,9 +17,15 @@
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/5b6714a8-64e1-4945-aa46-3235d2857733)
 
 
-## <요구사항명세서>
-# 지원자
+
+# <요구사항명세서>
+## 지원자
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/fd3107e2-23b2-49c7-b7ba-a0980a361aeb)
+## 평가위원
+![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/1733ba59-3c07-4a22-bf2b-91725f6fc2c7)
+## 관리자
+![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/7b571f63-a615-47bd-932b-9446072dc74e)
+
 
 
 

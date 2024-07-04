@@ -76,16 +76,13 @@
 
 <details>
 <summary>기능구현</summary>
-
+![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/180deb3d-f4e9-40d1-acb2-a5a0ebba1bf1)
 접은 내용(ex 소스 코드)
 </details>
 
 ## 접기 끝
-<div class="toggle-content">
-    <p>Hidden content goes here...</p>
-</div>
 
-![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/180deb3d-f4e9-40d1-acb2-a5a0ebba1bf1)
+
 
 
 ## 실행 화면

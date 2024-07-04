@@ -18,6 +18,9 @@
 
 
 ## <요구사항명세서>
+# 지원자
+![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/fd3107e2-23b2-49c7-b7ba-a0980a361aeb)
+
 
 
 

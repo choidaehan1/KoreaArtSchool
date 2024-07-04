@@ -31,7 +31,7 @@
 # 플로우차트
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/be833e55-f587-4851-b429-de9ced606f4e)
 
-## 접기 시작
+## 기능화면면
 
 <details>
 <summary>기능구현화면</summary>
@@ -106,7 +106,7 @@
 
 </details>
 
-## 접기 끝
+## 접기 
 
 
 

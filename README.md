@@ -100,6 +100,7 @@
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/deaac94f-3a6e-45ce-b090-3bf5f07f1ea9)
 
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/44f15daa-0fcd-412d-b2ad-fc5c50b41816)
+## 평가위원
 
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/ab509a1a-606d-419d-8409-8cb363394fb3)
 

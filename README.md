@@ -72,7 +72,15 @@
 
 
 
-## <button class="toggle-btn">Toggle Content</button>
+## 접기 시작
+
+<details>
+<summary>접기/펼치기</summary>
+
+접은 내용(ex 소스 코드)
+</details>
+
+## 접기 끝
 <div class="toggle-content">
     <p>Hidden content goes here...</p>
 </div>

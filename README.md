@@ -76,6 +76,7 @@
 
 <details>
 <summary>기능구현</summary>
+   
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/84613463-608c-4282-8d92-3b69f4f6de16)
 
 

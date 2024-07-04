@@ -109,6 +109,24 @@
 ## 관리자 공지사항 관리
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/72efd27a-f076-4408-97f8-91b8f052f446)
 
+![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/59c1d8d6-26c0-4b82-9a2f-1910c40b1c03)
+
+![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/143da1d8-ab00-4fa7-b5e1-66ef58a39836)
+
+![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/a234fd1b-489b-4a14-8e0f-ee75eab8038c)
+
+![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/fb3ad637-76c6-4b25-8b1b-e65c7d3843d2)
+
+![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/8a2ee394-d7fe-4111-9272-c0d99dc8a82c)
+
+![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/de04b89d-9050-489a-8a2d-dcd0c616bb0d)
+
+
+
+
+
+
+
 
 
 

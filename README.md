@@ -16,8 +16,8 @@
 
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/5b6714a8-64e1-4945-aa46-3235d2857733)
 
-
-
+## ERD 다이어그램
+![image](https://github.com/syO-Oii/KoreaArtSchool/assets/149779282/57788793-b71a-4819-984b-a72615d07ce6)
 # <요구사항명세서>
 ## 지원자
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/fd3107e2-23b2-49c7-b7ba-a0980a361aeb)
@@ -68,8 +68,8 @@
 ![구성도-페이지-2 drawio](https://github.com/syO-Oii/KoreaArtSchool/assets/149779282/f42af005-5d78-4e4a-995e-5307de09360a)
 
 
-## ERD 다이어그램
-![image](https://github.com/syO-Oii/KoreaArtSchool/assets/149779282/57788793-b71a-4819-984b-a72615d07ce6)
+
+
 
 
 ## 주요 기능

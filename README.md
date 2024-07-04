@@ -36,7 +36,7 @@
 <details>
 <summary>기능구현화면</summary>
 
-## 지원자   
+## 지원자 페이지
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/84613463-608c-4282-8d92-3b69f4f6de16)
 
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/9abef718-468d-483a-9d15-f4fc07068f0d)
@@ -58,7 +58,7 @@
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/1d59234c-e59c-486b-8962-97d91aae812b)
 
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/deaac94f-3a6e-45ce-b090-3bf5f07f1ea9)
-## 평가위원
+## 평가위원 페이지
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/44f15daa-0fcd-412d-b2ad-fc5c50b41816)
 
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/ab509a1a-606d-419d-8409-8cb363394fb3)
@@ -66,7 +66,7 @@
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/c49ce976-f3ae-4281-aee2-0825ea0a4914)
 
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/41f92397-01b3-437d-b7a0-81e1f6ad48d3)
-## <관리자> 
+## 관리자 페이지
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/72efd27a-f076-4408-97f8-91b8f052f446)
 
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/59c1d8d6-26c0-4b82-9a2f-1910c40b1c03)

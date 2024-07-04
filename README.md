@@ -31,7 +31,7 @@
  * Spring Boot 
  * MyBatis
  * JPA
- * MySQL(Oracle) : ~ 데이터 저장
+ * MySQL
 
 #### [Front-End]
  * HTML

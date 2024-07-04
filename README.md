@@ -75,7 +75,7 @@
 ## 접기 시작
 
 <details>
-<summary>기능구현</summary>
+<summary>기능구현화면</summary>
    
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/84613463-608c-4282-8d92-3b69f4f6de16)
 
@@ -84,6 +84,42 @@
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/c06d2d73-9692-49f2-9676-8e63d5e01549)
 
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/31b23c68-8ff0-40e3-8887-f728ff07bbb1)
+
+![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/f2248ced-089e-4f92-9784-3c584e0675f9)
+
+![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/3371e962-ca1b-4dae-9031-741c6f424f8a)
+
+![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/0ae915f2-a514-4f5f-9598-1a804ef36cc7)
+
+![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/ed620315-f107-4303-b7ff-ab37b4281ea9)
+
+![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/0c72e591-c6e2-47af-a044-d5d568bf795b)
+
+![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/1d59234c-e59c-486b-8962-97d91aae812b)
+
+![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/deaac94f-3a6e-45ce-b090-3bf5f07f1ea9)
+
+![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/44f15daa-0fcd-412d-b2ad-fc5c50b41816)
+
+![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/ab509a1a-606d-419d-8409-8cb363394fb3)
+
+![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/c49ce976-f3ae-4281-aee2-0825ea0a4914)
+
+![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/41f92397-01b3-437d-b7a0-81e1f6ad48d3)
+
+![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/25a078e7-a023-4dac-b126-543b825f2a73)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

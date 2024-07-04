@@ -75,7 +75,10 @@
 
 ## 실행 화면
 
+## 소감
+![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/e6b54c25-fa77-4dad-812b-575eb33af7c1)
 
+![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/54592762-00bd-4312-8434-11d18f9e9045)
 
 
 

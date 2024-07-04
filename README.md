@@ -29,6 +29,9 @@
 # <와이어프레임>
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/e2ab3c86-0d7e-429d-9ac6-6e811c59ce27)
 
+# 플로우차트
+![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/be833e55-f587-4851-b429-de9ced606f4e)
+
 
 
 ## 🛠️개발 환경

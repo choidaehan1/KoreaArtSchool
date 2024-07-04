@@ -26,7 +26,8 @@
 ## 관리자
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/7b571f63-a615-47bd-932b-9446072dc74e)
 
-
+# <와이어프레임>
+![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/e2ab3c86-0d7e-429d-9ac6-6e811c59ce27)
 
 
 

@@ -15,7 +15,9 @@
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/fb2a3f8b-b8e1-4698-bd5c-64905e4e257a)
 
 
-![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/e609ae0f-c41e-4677-9865-417f21928f20)
+
+![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/5b6714a8-64e1-4945-aa46-3235d2857733)
+
 
 
 

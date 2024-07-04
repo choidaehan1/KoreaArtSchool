@@ -106,7 +106,7 @@
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/c49ce976-f3ae-4281-aee2-0825ea0a4914)
 
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/41f92397-01b3-437d-b7a0-81e1f6ad48d3)
-## 관리자 공지사항 관리
+## <관리자> 
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/72efd27a-f076-4408-97f8-91b8f052f446)
 
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/59c1d8d6-26c0-4b82-9a2f-1910c40b1c03)

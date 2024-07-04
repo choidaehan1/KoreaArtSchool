@@ -31,46 +31,6 @@
 # 플로우차트
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/be833e55-f587-4851-b429-de9ced606f4e)
 
-
-
-## 🛠️개발 환경
-* IDE : IntelliJ IDEA
-* Database : MySQL 8.0.36
-* Infra : AMAZON RDS
-
-## ✒️개발 언어
-#### [Back-End]
- * Java 17
- * Spring Boot 
- * MyBatis
- * JPA
- * MySQL
-
-#### [Front-End]
- * HTML
- * CSS
- * Javascript
- * Bootstrap
- * JSP
- * Thymeleaf
-
-#### [TEAM 협업도구]
- * Github
- * Google Drive
-   
-
-## 메뉴트리
-![image](https://github.com/syO-Oii/KoreaArtSchool/assets/149779282/9100ec9f-83cf-4433-b415-fc392577c11a)
-
-
-## 시스템 아키텍쳐
-![구성도-페이지-2 drawio](https://github.com/syO-Oii/KoreaArtSchool/assets/149779282/f42af005-5d78-4e4a-995e-5307de09360a)
-
-
-
-
-
-
 ## 접기 시작
 
 <details>
@@ -146,6 +106,47 @@
 </details>
 
 ## 접기 끝
+
+
+
+## 🛠️개발 환경
+* IDE : IntelliJ IDEA
+* Database : MySQL 8.0.36
+* Infra : AMAZON RDS
+
+## ✒️개발 언어
+#### [Back-End]
+ * Java 17
+ * Spring Boot 
+ * MyBatis
+ * JPA
+ * MySQL
+
+#### [Front-End]
+ * HTML
+ * CSS
+ * Javascript
+ * Bootstrap
+ * JSP
+ * Thymeleaf
+
+#### [TEAM 협업도구]
+ * Github
+ * Google Drive
+   
+
+## 메뉴트리
+![image](https://github.com/syO-Oii/KoreaArtSchool/assets/149779282/9100ec9f-83cf-4433-b415-fc392577c11a)
+
+
+## 시스템 아키텍쳐
+![구성도-페이지-2 drawio](https://github.com/syO-Oii/KoreaArtSchool/assets/149779282/f42af005-5d78-4e4a-995e-5307de09360a)
+
+
+
+
+
+
 
 
 

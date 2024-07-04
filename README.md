@@ -15,7 +15,8 @@
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/fb2a3f8b-b8e1-4698-bd5c-64905e4e257a)
 
 
-![image](https://github.com/syO-Oii/KoreaArtSchool/assets/149779282/62daa3f5-be0f-4e6b-baf0-f875dd1dd2a7)
+![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/e609ae0f-c41e-4677-9865-417f21928f20)
+
 
 
 ## 성과

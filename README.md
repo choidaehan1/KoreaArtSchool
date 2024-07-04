@@ -32,10 +32,10 @@
 # 플로우차트
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/be833e55-f587-4851-b429-de9ced606f4e)
 
-## 기능화면
+# 기능구현화면
 
 <details>
-<summary>기능구현화면</summary>
+<summary>클릭</summary>
 
 ## 지원자 페이지
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/84613463-608c-4282-8d92-3b69f4f6de16)

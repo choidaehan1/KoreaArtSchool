@@ -72,7 +72,11 @@
 
 
 
-## 주요 기능
+## <button class="toggle-btn">Toggle Content</button>
+<div class="toggle-content">
+    <p>Hidden content goes here...</p>
+</div>
+
 ![image](https://github.com/choidaehan1/KoreaArtSchool/assets/155132549/180deb3d-f4e9-40d1-acb2-a5a0ebba1bf1)
 
 
